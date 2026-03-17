@@ -40,50 +40,10 @@ Swagger UI available at:
 
 http://localhost:8080/swagger-ui.html
 
-## Running the Application
+Word documentation with Screenshots available at:
 
-### Option 1 – Run locally
-# Match Odds REST API
+https://github.com/TasoulasTheofanis/match-odds-rest-api/tree/main/documentation
 
-This project is a Spring Boot REST API for managing matches and their betting odds.
-
-## Technologies
-
-- Java 17
-- Spring Boot
-- Spring Data JPA
-- PostgreSQL
-- Maven
-- Swagger (OpenAPI)
-- Docker
-
-## Project Structure
-
-Controller → Service → Repository → Entity → Database
-
-## API Endpoints
-
-### Match
-
-POST /matches  
-GET /matches  
-GET /matches/{id}  
-PUT /matches/{id}  
-DELETE /matches/{id}
-
-### MatchOdds
-
-POST /odds  
-GET /odds  
-GET /odds/{id}  
-PUT /odds/{id}  
-DELETE /odds/{id}
-
-## API Documentation
-
-Swagger UI available at:
-
-http://localhost:8080/swagger-ui.html
 
 ## Running the Application
 
